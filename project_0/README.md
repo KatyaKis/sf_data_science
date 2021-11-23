@@ -11,7 +11,7 @@
 ### Описание проекта 
 Угадать загаданное компьтером число заминимальное число попыток.
 
-:arrow_up: [к оглавлению] 
+:arrow_up: [к оглавлению](https://github.com/KatyaKis/sf_data_science/blob/main/project_0/README.md#Оглавление) 
 
 
 ### Какой кейс решаем?
@@ -30,17 +30,17 @@
 ### Краткая информация о данных
 ....
 
-:arrow_up: [к оглавлению] 
+:arrow_up: [к оглавлению](https://github.com/KatyaKis/sf_data_science/blob/main/project_0/README.md#Оглавление) 
 
 ### Этапы работы над проектом
 ....
 
-:arrow_up: [к оглавлению] 
+:arrow_up: [к оглавлению](https://github.com/KatyaKis/sf_data_science/blob/main/project_0/README.md#Оглавление) 
 
 ### Результаты:
 
-:arrow_up: [к оглавлению]
+:arrow_up: [к оглавлению](https://github.com/KatyaKis/sf_data_science/blob/main/project_0/README.md#Оглавление)
 
 ### Выводы:
 
-:arrow_up: [к оглавлению]
+:arrow_up: [к оглавлению](https://github.com/KatyaKis/sf_data_science/blob/main/project_0/README.md#Оглавление)
